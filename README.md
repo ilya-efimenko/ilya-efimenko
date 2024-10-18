@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Software Engineer working from Madrid, Spain.
+## I'm Software Engineer working from Madrid, Spain 🇪🇸.
 
 🔭 I’m currently working at <strong>Celonis</strong><br>👯 I’m looking to collaborate on Open Source projects<br>🌱 I’m currently learning Angular, TypeScript<br>📫 Reach me: <a href="linkedin.com/in/ilya-efimenko">linkedin.com/in/ilya-efimenko</a>
 
